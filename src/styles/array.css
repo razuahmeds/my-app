@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.demodate{
+    margin: 0 90px;
+}
+.titel{
+    padding: 10px 0;
+    padding-top: 50px;
+}
+
+.secondary-titel{
+    padding: 10px 0;
+}
+
+.description{
+    padding: 10px 0;
+}
+.img-container{
+    width: 20vw;
+    height: 30vh;
+    /* object-fit: contain; */
+}
+
+.date{
+    padding: 10px 0;
+}
+
+/* .btn{
+    height: 5vh;
+    width: 5vw;
+    background-color: #111827;
+    color: white;
+} */

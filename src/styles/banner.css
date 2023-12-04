@@ -1,0 +1,30 @@
+.header-section {
+    display: flex;
+    padding: 50px;
+    height: 100vh;
+    background-color: #CFD2D4;
+    align-items: center;
+
+}
+
+.headerSection-img {
+    width: 50vw;
+}
+
+.banner-info {
+    margin-left: 25px;
+    font-family: 'Raleway', sans-serif;
+    width: 250px;
+}
+
+.banner-info .banner-title{
+    font-size: 70px;
+}
+
+.banner-info .banner-secondary-title{
+    font-size: 12px;
+    margin: 30px 0;
+}
+.banner-info p{
+    text-align: justify;
+}

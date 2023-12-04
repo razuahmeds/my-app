@@ -1,0 +1,39 @@
+.artists-components{
+    height: 100vh;
+    background-color: #EFE9E4;
+    padding: 50px;
+}
+
+
+.item-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.item-container img{
+    width: 100%;
+}
+
+.item-container .first-item{
+    width: 30vw;
+}
+.item-container .second-item{
+    width: 25vw;
+}
+
+
+.item-container .third-item{
+    width: 30vw;
+    margin-top: 20%;
+}
+.item-container .third-item h1{
+    margin: 30px 0;
+    font-family: 'Courier New';
+}
+
+
+
+
+
